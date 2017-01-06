@@ -1,0 +1,1 @@
+Please view this site using XAMPP or the likes. Our PHP will not work when just viewed through a browser or inside Dreamweaver. Also, this site was essentially made by only Andrew Lam and David Jacobsen. Our other team members did not contribute to the creation of this website portfolio project.
